@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution](https://github.com/Saf-Awi/interactive-rating-component)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Live Site URL: [live site](https://saf-awi.github.io/interactive-rating-component/)
 
 ## My process
 
@@ -49,4 +49,4 @@ Users should be able to:
 ## Author
 
 - Github - [Safa Al-Hilo](https://github.com/Saf-Awi)
-- Frontend Mentor - [@Saf-Awi] (https://saf-awi.github.io/interactive-rating-component/)
+- Frontend Mentor - [@Saf-Awi] (https://www.frontendmentor.io/profile/Saf-Awi)
