@@ -49,4 +49,4 @@ Users should be able to:
 ## Author
 
 - Github - [Safa Al-Hilo](https://github.com/Saf-Awi)
-- Frontend Mentor - [@Saf-Awi] (https://www.frontendmentor.io/profile/Saf-Awi)
+- Frontend Mentor - [@Saf-Awi] (https://saf-awi.github.io/interactive-rating-component/)
